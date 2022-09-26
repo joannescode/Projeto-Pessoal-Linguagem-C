@@ -11,16 +11,16 @@ int main(){
     num2 = 20;
 
     int soma = num1 + num2;
-    printf("A soma entre as duas vari·veis È: %i\n", soma);
+    printf("A soma entre as duas vari√°veis √©: %i\n", soma);
 
     int sub = num1 - num2;
-    printf("A subtraÁ„o entre as duas vari·veis È: %i\n", soma);
+    printf("A subtra√ß√£o entre as duas vari√°veis √©: %i\n", soma);
 
     int multi = num1 * num2;
-    printf("A multiplicaÁ„o entre as duas vari·veis È: %i\n", multi);
+    printf("A multiplica√ß√£o entre as duas vari√°veis √©: %i\n", multi);
 
     float div = num1 / 3;
-    printf("A divis„o entre a vari·vel num1 e 3 È: %.2f\n", div);
+    printf("A divis√£o entre a vari√°vel num1 e 3 √©: %.2f\n", div);
 
     system("pause");
     return 0;
