@@ -13,22 +13,22 @@ int main(){
     do{
         A, B, R = 0;
 
-        printf("Selecione a operação:");
+        printf("Selecione a operaÃ§Ã£o:");
         printf("\n(1) somar\n");
         printf("(2) subtrair\n");
         printf("(3) multiplicar\n");
         printf("(4) dividir\n");
         printf("(0) sair do programa\n");
 
-        printf("\nInforme a operação:");
+        printf("\nInforme a operaÃ§Ã£o:");
 
         OP = getch();
         printf("\n");
 
         if(OP !='0'){
-            printf("Digite o primeiro número:");
+            printf("Digite o primeiro nÃºmero:");
             scanf("%f", &A);
-            printf("Digite o segundo número:");
+            printf("Digite o segundo nÃºmero:");
             scanf("%f", &B);
             
             if(OP =='1'){
@@ -48,7 +48,7 @@ int main(){
             }
         }
         
-        printf("\nO resultado é: %.2f\n", R);
+        printf("\nO resultado Ã©: %.2f\n", R);
         printf("\nPressione qualquer tecla para continuar...");
         getch();
         system("cls");
