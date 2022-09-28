@@ -1,9 +1,7 @@
 # Projeto-Pessoal-Linguagem-C
 Projeto pessoal, onde elaborei uma ficha introdutória com funções e dicas para codar em C e também algumas atividades práticas em código.
 
-## Links-Úteis
-
-Conteúdos utilizados:
+# Conteúdos Utilizados:
 
 [eXcript - Curso Linguagem C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4)
 
@@ -11,7 +9,7 @@ Conteúdos utilizados:
 
 [Curso Udemy One Day Code - Linguagem C](https://www.udemy.com/course/curso-completo-de-linguagem-c-iniciante-ao-avancado/learn/lecture/8109852#overview)
 
-Aprenda a utilizar o Git e Github e publique seu primeiro projeto:
+# Aprenda a utilizar o Git e Github e publique seu primeiro projeto:
 
 [Download do Git](https://git-scm.com/)
 
